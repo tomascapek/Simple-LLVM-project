@@ -11,16 +11,16 @@ On std::out it prints LLVM IR and creates file output.o with object code.
 
 How about compile it first?   
 
-   cmake CMakeLists.txt  
-   make Mila
+    cmake CMakeLists.txt  
+    make Mila
 
-And run it?
+Maybe run it?
 
     ./Mila
 
-And link result?  
+How about linking the result?  
 
-   { clang++ | g++ | gcc | ... } output.o -o run
-   ./run
+    { clang++ | g++ | gcc | ... } output.o -o run  
+    ./run  
 
 Was it too difficult? Go and try GCC :) 
