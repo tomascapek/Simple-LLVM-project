@@ -21,11 +21,11 @@ What now?
 How about **compile it** first?   
 
     cmake CMakeLists.txt  
-    make Mila
+    make Frodo
 
 Maybe **run** it?
 
-    ./Mila
+    ./Frodo
 
 How about **linking** the result?  
 
